@@ -1,0 +1,2 @@
+# Keep source texts byte-for-byte (no line-ending conversion)
+data/raw/** -text

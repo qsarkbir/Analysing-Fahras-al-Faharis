@@ -1,0 +1,13 @@
+# Duplicate copies of source files
+*コピー*
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
