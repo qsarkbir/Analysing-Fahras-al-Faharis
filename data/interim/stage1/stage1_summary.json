@@ -1,0 +1,39 @@
+{
+  "codebook_version": "0.1",
+  "raw_file": "1382Kattani.FahrasFaharis.Shamela0001037-ara1.completed.mARkdown",
+  "raw_sha256": "f1ead509612b7512714ade5d39277d9a30a46e0c60c7732a102dca960729bfd4",
+  "items": 1225,
+  "items_by_kind_series_section": {
+    "hafiz_list|none|introduction": 5,
+    "entry|book|introduction": 15,
+    "entry|person|dictionary": 655,
+    "entry|book|dictionary": 550
+  },
+  "items_boundary_corrected": 30,
+  "references": 176,
+  "references_by_status": {
+    "resolved": 92,
+    "unresolved": 64,
+    "ambiguous": 20
+  },
+  "boundary_issues_by_type": {
+    "possible_untagged_item": 4,
+    "split_midline": 16,
+    "possible_untagged_heading": 5,
+    "unassigned_text": 10,
+    "reference_with_content": 1,
+    "false_heading_year": 3,
+    "mis_tagged_continuation": 12,
+    "tag_variant": 1
+  },
+  "numbering_issues_by_type": {
+    "person|gap_before": 7,
+    "person|summary": 1,
+    "book|duplicate": 2,
+    "book|misprint": 1,
+    "book|summary": 1
+  },
+  "dictionary_start_line": 1417,
+  "khatima_start_line": 23943,
+  "word_count_total": 237384
+}

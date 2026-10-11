@@ -1,0 +1,13 @@
+series,printed_number,issue,item_id,line_no,detail,candidate_lines
+person,66,gap_before,I0139,3507,missing 65 (after I0138),3501 3501(number 65 inline)
+person,81,gap_before,I0153,3882,missing 80 (after I0152),3860
+person,185,gap_before,I0311,7234,missing 184 (after I0310),
+person,434,gap_before,I0892,15662,missing 433 (after I0891),
+person,472,gap_before,I0929,16766,missing 471 (after I0928),
+person,482,gap_before,I0938,17160,missing 481 (after I0937),
+person,567,gap_before,I1090,20346,missing 566 (after I1089),
+person,662,summary,,,655 items; highest number 662; 655 distinct numbers,
+book,15,duplicate,I0084,2505,also I0020,
+book,233,duplicate,I0580,12207,also I0579,
+book,598,misprint,I1129,21707,read as 538 (between 537 and 539),
+book,563,summary,,,565 items; highest number 563; 563 distinct numbers,
